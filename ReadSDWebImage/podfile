@@ -1,0 +1,6 @@
+use_frameworks!
+
+target "ReadSDWebImage" do
+platform :ios, '8.0'
+pod 'SDWebImage', '~> 5.0'
+end
